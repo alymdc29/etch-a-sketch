@@ -23,12 +23,12 @@ h1{
   width: 25px;
   height: 25px;
   border: solid white;
-  transition: .3s ;
-  background-color: #81BFDA;
+  background-color: #94e2eb;
+  transition: .1s;
 }
 
-#container>div:hover{
-  background-color: #B1F0F7;
+#container>div.hovered{
+  background-color: #54a1c2;
 }
 
 button{
